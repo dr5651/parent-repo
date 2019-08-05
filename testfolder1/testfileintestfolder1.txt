@@ -1,1 +1,3 @@
 testfileintestfolder1
+
+modified file inside
